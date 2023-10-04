@@ -1,24 +1,24 @@
-bedroom()
+function bedroom()
 {
-    window.location = Bedroom.html
+    window.location = "Bedroom.html"
 }
 
-bottles()
+function bottles()
 {
-    window.location = Bottles.html
+    window.location = "Bottles.html"
 }
 
-desk()
+function desk()
 {
-    window.location = Desk.html
+    window.location = "Desk.html"
 }
 
-fruit()
+function fruit()
 {
-    window.location = Fruit.html
+    window.location = "Fruit.html"
 }
 
-TV_AC()
+function TV_AC()
 {
-    window.location = TV_AC.html
+    window.location = "TV_AC.html"
 }

@@ -35,3 +35,8 @@ canvas
     font-size: 25px;
     width: 155px;
 }
+
+.back
+{
+    float: right;
+}
